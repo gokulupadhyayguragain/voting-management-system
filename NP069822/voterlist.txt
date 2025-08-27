@@ -1,0 +1,6 @@
+SNO	Name	Date of Birth	Address	Password
+120	Gokul	2004/02/03	KTM	abc
+121	Gocool	2004/06/09	POK	abc
+SNO	Name	Date of Birth	Address	Password
+120	Gokul	2004/02/03	KTM	Voted
+121	Gocool	2004/06/09	POK	abc
